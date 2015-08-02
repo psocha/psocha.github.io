@@ -1,0 +1,157 @@
+/* HEADER ------------------------------------------------------------------ */
+
+#header {
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: fixed;
+
+    background-color: #202020;
+    color: white;
+}
+
+#nav {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+#name {
+    display: inline;
+}
+
+#name a {
+    float: left;
+    margin-top: 3px;
+    margin-bottom: 3px;
+
+    color: white;
+    font-weight: bold;
+    font-size: 48px;
+    font-family: Arial;
+    text-decoration: none;
+}
+
+#nav_list {
+    list-style: none;
+    float: right;
+    text-align: center;
+    height: 100%;
+}
+
+.nav_item {
+    float: left;
+    display: block;
+
+    padding: 5px;
+}
+
+.nav_item.active {
+    font-weight: bold;
+}
+
+.nav_item:hover {
+    text-decoration: underline;
+}
+
+.nav_item a {
+    padding: 10px;
+
+    color: white;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 22px;
+}
+
+/* BODY -------------------------------------------------------------------- */
+
+body {
+    background-color: #123746;
+}
+
+p, li {
+    color: white;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+main {
+    padding-top:65px;
+    color: white;
+}
+
+#main {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.table-view {
+    display:table;
+    width:100%;
+}
+
+#top_main_section {
+    display: table-row;
+    width: 100%;
+}
+
+.left-cell {
+    display: table-cell;
+    float: left;
+    width: 25%;
+}
+
+.right-cell {
+    display: table-cell;
+    float: right;
+    width: 75%;
+}
+
+#second_main_section {
+    margin-top: 30px;
+}
+
+.experience-item {
+    margin-bottom: 10px;
+}
+
+#resume_comment {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#resume {
+    text-align: center;
+}
+
+#embed_resume {
+    margin: 0 auto;
+}
+
+.white-link {
+    color: white;
+}
+
+/* FOOTER ------------------------------------------------------------------ */
+
+#footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+
+    background-color: #202020;
+    text-align: center;
+}
+
+#footer_container {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+div.external_link {
+    display: inline;
+}
