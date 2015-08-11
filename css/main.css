@@ -123,8 +123,9 @@ main {
     text-align: center;
 }
 
-#embed_resume {
-    margin: 0 auto;
+#resume_embed {
+    width:618px;
+    height:800px;
 }
 
 .white-link {
