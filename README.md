@@ -1,1 +1,1 @@
-HTML and files required for personal site.
+Visit www.petersocha.me
