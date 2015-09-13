@@ -124,8 +124,8 @@ main {
 }
 
 #resume_embed {
-    width:618px;
-    height:800px;
+    min-width:768px;
+    min-height:768px;
 }
 
 .white-link {
