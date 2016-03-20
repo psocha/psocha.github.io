@@ -6,7 +6,7 @@
     width: 100%;
     position: fixed;
 
-    background-color: #202020;
+    background-color: #123746;
     color: white;
 }
 
@@ -21,7 +21,7 @@
 
 #name a {
     float: left;
-    margin-top: 3px;
+    margin-top: 5px;
     margin-bottom: 3px;
 
     color: white;
@@ -42,15 +42,17 @@
     float: left;
     display: block;
 
+    border-radius: 5px;
     padding: 5px;
 }
 
 .nav_item.active {
     font-weight: bold;
+    background-color: white;
 }
 
-.nav_item:hover {
-    text-decoration: underline;
+.nav_item.active a {
+    color: #123746;
 }
 
 .nav_item a {
@@ -65,18 +67,18 @@
 /* BODY -------------------------------------------------------------------- */
 
 body {
-    background-color: #123746;
+    background-color: white;
 }
 
 p, li {
-    color: white;
+    color: #404040;
     font-size: 18px;
     font-family: Arial;
 }
 
 main {
     padding-top:65px;
-    color: white;
+    color: #404040;
 }
 
 #main {
@@ -85,6 +87,7 @@ main {
 }
 
 .img-circle {
+    padding-top: 20px;
     border-radius: 50%;
 }
 
@@ -128,10 +131,6 @@ main {
     min-height:768px;
 }
 
-.white-link {
-    color: white;
-}
-
 /* FOOTER ------------------------------------------------------------------ */
 
 #footer {
@@ -140,7 +139,7 @@ main {
     width: 100%;
     position: fixed;
 
-    background-color: #202020;
+    background-color: #123746;
     text-align: center;
 }
 
