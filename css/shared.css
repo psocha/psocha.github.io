@@ -72,7 +72,7 @@ body {
 
 p, li {
     color: #404040;
-    font-size: 18px;
+    font-size: 16px;
     font-family: Arial;
 }
 
@@ -86,49 +86,9 @@ main {
     max-width: 1200px;
 }
 
-.img-circle {
-    padding-top: 20px;
-    border-radius: 50%;
-}
-
 .table-view {
     display:table;
     width:100%;
-}
-
-#top_main_section {
-    display: table-row;
-    width: 100%;
-}
-
-.left-cell {
-    display: table-cell;
-    float: left;
-    width: 25%;
-}
-
-.right-cell {
-    display: table-cell;
-    float: right;
-    width: 75%;
-}
-
-.experience-item {
-    margin-bottom: 10px;
-}
-
-#resume_comment {
-    margin: 0 auto;
-    text-align: center;
-}
-
-#resume {
-    text-align: center;
-}
-
-#resume_embed {
-    min-width:768px;
-    min-height:768px;
 }
 
 /* FOOTER ------------------------------------------------------------------ */

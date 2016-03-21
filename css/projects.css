@@ -1,0 +1,50 @@
+h1.project-title {
+    font-family: Arial;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-family: Arial;
+}
+
+.project-row {
+    display: table-row;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.project-left {
+    display: table-cell;
+    float: left;
+    width: 67%;
+}
+
+.project-right {
+    display: table-cell;
+    float: right;
+    width: 33%;
+    position: relative;
+}
+
+.project-tech {
+    font-family: Arial;
+}
+
+.project-image {
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+.sticker {
+    padding-bottom: 30px;
+}
+
+#gogameclock {
+    width: 320px;
+    height: 180px;
+}
+
+#homeworktracker {
+    width: 200px;
+    height: 200px;
+}

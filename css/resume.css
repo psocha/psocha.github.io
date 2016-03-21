@@ -1,0 +1,13 @@
+#resume_comment {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#resume {
+    text-align: center;
+}
+
+#resume_embed {
+    min-width:768px;
+    min-height:768px;
+}
