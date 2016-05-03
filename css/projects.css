@@ -31,7 +31,7 @@ h2 {
 }
 
 .project-image {
-    padding-top: 40px;
+    padding-top: 50px;
     padding-left: 40px;
 }
 
@@ -47,4 +47,9 @@ h2 {
 #homeworktracker {
     width: 200px;
     height: 200px;
+}
+
+#shouldofbot {
+    width: 360px;
+    height: 73px;
 }
