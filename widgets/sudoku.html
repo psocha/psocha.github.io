@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Peter Socha</title>
+    <link rel="stylesheet" type="text/css" href="../css/shared.css" />
+    <link rel="stylesheet" type="text/css" href="../css/widgets.css" />
+    <link rel="icon" href="../images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" type="image/x-icon" href="../images/favicon.ico">
+</head>
+
+<body>
+
+<header>
+
+    <div id="header">
+        <nav id="nav">
+            <div id="name"><a href="../index.html">Peter Socha</a></div>
+            <ul id="nav_list">
+                <li class="nav_item active"><a href="../index.html">Home</a></li>
+                <li class="nav_item"><a href="../resume.html">Resume</a></li>
+                <li class="nav_item"><a href="../projects.html">Projects</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="footer">
+        <div id="footer_container">
+            <div id="email" class="external_link">
+                <a target="_blank" href="mailto:peter.socha1@gmail.com" title="Email">
+                    <img src="../images/mail.png" />
+                </a>
+            </div>
+            <div id="linkedin" class="external_link">
+                <a target="_blank" href="https://ca.linkedin.com/pub/peter-socha/62/aa3/611" title="LinkedIn">
+                    <img src="../images/linkedin.png" />
+                </a>
+            </div>
+            <div id="github" class="external_link">
+                <a target="_blank" href="https://github.com/psocha" title="GitHub">
+                    <img src="../images/github.png" />
+                </a>
+            </div>
+
+        </div>
+    </div>
+</header>
+
+<main>
+    <div id="main">
+        <script src="https://cdn.rawgit.com/psocha/StochasticSudokuSolver/master/solver.js" type="text/javascript"></script>
+        <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/psocha/StochasticSudokuSolver/master/solver.css" />
+        <div id="stochastic-sudoku-solver"></div>
+        <p>This solver uses a simulated annealing algorithm to solve Sudoku grids.
+            The grid is first filled in randomly and it will be full of errors. Each turn, the algorithm randomly picks two open cells in the same 3x3 box and considers swapping them.
+            If the grid after the swap would have fewer errors than the old grid, the swap is accepted and performed.
+            If the proposed swap makes the grid worse, it is accepted or rejected based on a probability that depends on the error differential and the distance from the goal of a zero-error solution.
+            Simulated annealing sometimes accepts worsening swaps in order to prevent stagnation in the algorithm.
+        </p>
+        <p>Simulated annealing is probabilistic and each run will be different.
+            It will not always solve every valid grid, though it is guaranteed to find a solution if given infinite time (this widget times out after 30,000 swaps).
+            Simulated annealing can often find solutions more quickly than deterministic brute-force or backtracking algorithms.
+        </p>
+    </div>
+</main>
+
+</body>
+</html>
