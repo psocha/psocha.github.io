@@ -1,10 +1,10 @@
-h1.project-title {
+h1 {
     font-family: Arial;
-    margin-bottom: 5px;
 }
 
-h2 {
+h2.project-title {
     font-family: Arial;
+    margin-bottom: 5px;
 }
 
 .project-row {
@@ -57,4 +57,9 @@ h2 {
 #chessengine {
     width: 200px;
     height: 200px;
+}
+
+#manifold {
+    width: 250px;
+    height: 250px;
 }

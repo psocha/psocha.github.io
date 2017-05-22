@@ -46,13 +46,16 @@
 
 <main>
     <div id="main" class="table-view">
+
+        <h1>Independent Projects</h1>
+
         <div class="project-row">
             <div class="project-left">
-                <h1 class="project-title">Go Game Clock</h1>
+                <h2 class="project-title">Go Game Clock</h2>
                 <small class="project-tech">Android (native)</small><br>
                 <p>A niche clock app for keeping track of player times in the board game Go.</p>
                 <p>The app has support for complicated "byoyomi" time controls that are common in Go but which other game clock apps (usually tailored for chess) do not support.</p>
-                <p>Currently with 1100+ downloads and a 4.5-star rating on Google Play.</p>
+                <p>Currently with 1300+ downloads and a 4.5-star rating on Google Play.</p>
                 <a href="https://play.google.com/store/apps/details?id=com.psocha.goclock" target="_blank">
                     <img src="../images/google-play-icon.png" class="sticker">
                 </a>
@@ -64,7 +67,7 @@
 
         <div class="project-row">
             <div class="project-left">
-                <h1 class="project-title">Chess Engine</h1>
+                <h2 class="project-title">Chess Engine</h2>
                 <small class="project-tech">C++</small><br>
                 <p>A computer engine for the game of chess. This engine does not have a graphical interface, but instead uses the text-based UCI protocol, allowing it to be installed and run on nearly every chess GUI program.</p>
                 <p>The engine's AI uses a min-max tree search with alpha-beta pruning. To evaluate positions, it applies basic strategies like counting material and trying to gauge the effectiveness of individual pieces.</p>
@@ -78,11 +81,11 @@
 
         <div class="project-row">
             <div class="project-left">
-                <h1 class="project-title">Homework Tracker</h1>
+                <h2 class="project-title">Homework Tracker</h2>
                 <small class="project-tech">JavaScript, HTML, CSS</small><br>
                 <p>A Google Chrome popup extension for keeping track of homework items and deadlines.</p>
                 <p>The extension is designed to be more user-friendly, more responsive, and less memory-intensive than similar free apps on the market.</p>
-                <p>Currently with 4400+ weekly users and a 4.5-star rating on the Chrome Web Store.</p>
+                <p>Currently with 6300+ weekly users and a 4.5-star rating on the Chrome Web Store.</p>
                 <a href="https://chrome.google.com/webstore/detail/homework-tracker/nblmegnbohbagljeheaniomchelnhhka" target="_blank">
                     <img src="../images/chrome-web-store.png" class="sticker">
                 </a>
@@ -94,7 +97,7 @@
 
         <div class="project-row">
             <div class="project-left">
-                <h1 class="project-title">Stochastic Sudoku Solver</h1>
+                <h2 class="project-title">Stochastic Sudoku Solver</h2>
                 <small class="project-tech">JavaScript, HTML, CSS</small><br>
                 <p>A web widget that solves Sudoku puzzles using a random and probabilistic approach called simulated annealing.</p>
                 <p><a href="../widgets/sudokusolver/" target="_blank">Click here to try it out.</a></p>
@@ -104,23 +107,57 @@
             </div>
         </div>
 
+        <br />
+        <hr />
+        <br />
+
         <div>
-            <h2>Contributions to Other Projects</h2>
+
+            <h1>External Projects with Major Contributions</h1>
+
+            <div class="project-row">
+                <div class="project-left">
+                    <h2 class="project-title"><a href="http://manifold-lang.github.io" target="_blank">Manifold</a></h2>
+                    <small class="project-tech">Java</small><br>
+                    <p>Manifold is an open-source hardware description language developed at the University of Waterloo.
+                        It is designed to be high-level, easy-to-use, domain-agnostic, and similar to modern functional programming languages.</p>
+                    <p>As part of my fourth-year design project at the University of Waterloo, I worked with some fellow undergraduate and graduate students to extend Manifold.
+                        We focused on giving Manifold the ability to describe and analyze microfluidic circuits.
+                        Microfluidic circuits are an immature domain and our group aimed to make Manifold the first ever end-to-end automated toolchain for microfluidic circuit design.
+                        We ended up making a prototype that can handle trivial circuits.</p>
+                    <p>My main individual contribution to Manifold was adding the ability to export system schematics in the Modelica model format.</p>
+                    <p>Our group got joint-first place at the 2017 UW software engineering capstone symposium.
+                        We also wrote a <a href="manifold-paper.pdf" target="_blank">research paper</a> on our work which was accepted for the <a href="https://ccece2017.ieee.ca/" target="_blank">2017 IEEE Canadian Conference on Electrical and Computer Engineering</a>.
+                        We presented our paper at CCECE 2017 in Windsor, ON in May 2017.</p>
+                </div>
+                <div class="project-right">
+                    <img src="../images/manifold.svg" id="manifold" class="project-image">
+                </div>
+            </div>
+        </div>
+
+        <br />
+        <hr />
+        <br />
+
+        <div>
+            <h1>External Projects with Minor Contributions</h1>
             <ul>
+                <li>
+                    <a href="http://globalvisionaries.org" target="_blank">Global Visionaries</a>: a Wordpress site made in a group as part of the 2016 <a href="http://www.seattlegivecamp.org/" target="_blank">Seattle GiveCamp</a> charitable hackathon.
+                </li>
                 <li>
                     <a href="https://www.remind.com" target="_blank">Remind:</a> features and fixes for various open-source Go packages and Ruby gems, including <a href="http://www.github.com/remind101/pkg" target="_blank">pkg</a>,
                     <a href="http://www.github.com/remind101/collective" target="_blank">collective</a>, and <a href="http://www.github.com/remind101/formatted-metrics" target="_blank">formatted-metrics</a>
                 </li>
-                <li>
-                    <a href="http://manifold-lang.github.io" target="_blank">Manifold</a> (fourth-year design project): a system description language with the ease-of-use of a high-level functional programming language.
-                    My group is currently expanding Manifold so it can be used to formally describe and verify microfluidic circuits.
-                </li>
-                <li>
-                    <a href="http://globalvisionaries.org" target="_blank">Global Visionaries</a>: a Wordpress site made in a group as part of the 2016 <a href="http://www.seattlegivecamp.org/" target="_blank">Seattle GiveCamp</a> charitable hackathon.
-                </li>
             </ul>
-            <p>A complete and up-to-date account of my public code contributions can be found at my <a href="http://www.github.com/psocha" target="_blank">GitHub</a> page.</p>
         </div>
+
+        <br />
+        <hr />
+        <br />
+
+        <p>A complete and up-to-date account of my public code contributions can be found at my <a href="http://www.github.com/psocha" target="_blank">GitHub</a> page.</p>
     </div>
 </main>
 
