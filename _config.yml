@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peter Socha's Blog"
+title                    : "Peter's Programming Blog"
 title_separator          : "|"
 name                     : "Peter Socha"
 description              : "My thoughts on software engineering"
@@ -31,7 +31,7 @@ author:
   name             : "Peter Socha"
   avatar           : "/assets/images/author.png"
   bio              : "Software Engineer at Microsoft"
-  location         : "Greater Seattle"
+  location         : "Redmond, WA, USA"
   email            :
   github           : "psocha"
   linkedin         : "peter-socha-611aa362"

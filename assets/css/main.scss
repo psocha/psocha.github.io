@@ -16,3 +16,13 @@
         padding: 0 1em 1em;
     }
 }
+
+// Profile picture
+.sidebar {
+    opacity: 1;
+}
+.author__avatar img {
+    padding: 0;
+    max-width: 130px;
+    border: 0;
+}
