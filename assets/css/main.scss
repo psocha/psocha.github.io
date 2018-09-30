@@ -1,0 +1,53 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Theme overrides below
+
+// Header margins
+h1 {
+    margin-top: 2em;
+}
+
+// Footer shrinkage and color change
+.page__footer {
+    background-color: $text-color;
+    footer {
+        margin-top: 1em;
+        padding: 0 1em 1em;
+    }
+}
+
+// Profile picture
+.sidebar {
+    opacity: 1;
+}
+.author__avatar img {
+    padding: 0;
+    max-width: 130px;
+    border: 0;
+}
+
+// Make main section wider
+@include breakpoint($x-large) {
+    article.page {
+        padding-right: $right-sidebar-width-narrow;
+    }
+}
+
+// Reduce main font size
+@include breakpoint($x-large) {
+    .page__content p, .page__content li {
+        font-size: 20px;
+    }
+}
+
+// Stop images from dominating pages
+.img-responsive {
+    max-width: 50%;
+}
