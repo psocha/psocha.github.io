@@ -40,6 +40,13 @@ h1 {
     }
 }
 
+// Reduce main font size
+@include breakpoint($x-large) {
+    .page__content p, .page__content li {
+        font-size: 20px;
+    }
+}
+
 // Stop images from dominating pages
 .img-responsive {
     max-width: 50%;
