@@ -45,7 +45,7 @@ To evaluate positions, it applies basic strategies like material-counting and pi
 
 The engine currently plays at the level of a human beginner, though it is able to beat standard open-source engines like Stockfish on the lowest difficulty settings. More improvements are in the works.
 
-Source code is available at my [GitHub](https://github.com/psocha/ChessEngine).
+Source code is available at my [GitHub](https://github.com/psocha/ChessEngine). A detailed blog post about the project can be found [here](/blog/chess-engine.html).
 
 ## External Projects with Major Contributions ##
 

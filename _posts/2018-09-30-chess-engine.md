@@ -86,7 +86,7 @@ The engine is playing white and [my brother](https://m-socha.github.io) is playi
 Black has an advanced passed pawn that is threatening to advance to `a1`.
 Queening the a-pawn would give black an overwhelming material advantage.
 
-![Blunder](/assets/images/chessengine_blunder.png){:class="img-responsive"}
+![Blunder](/assets/images/chessengine_blunder_position.png){:class="img-responsive"}
 
 The pawn on `a4` is currently a solvable threat.
 White can play `Rf5-f1` and cover the queening square, leading to a position that Stockfish evaluates as being roughly even.
