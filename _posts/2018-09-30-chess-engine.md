@@ -17,7 +17,8 @@ It is capable of outperforming established chess engines like Stockfish on the l
 
 Here are some lessons I learned as I built and iterated on this project.
 
-**Standardization makes the world go round.**
+### Standardization makes the world go round ###
+
 Writing a chess AI is a surprisingly simple undertaking.
 It is not necessary for you to write any user interface code.
 There is a standard command-line format called the Universal Chess Interface (UCI) which is widely implemented across chess-playing GUIs.
@@ -25,7 +26,8 @@ A UCI-compliant GUI may send your engine application an input like `position sta
 All your engine needs to do is read the input, build up an internal representation of the board, determine the best move, and output something like `bestmove g1f3`.
 Thanks to the UCI standard's high adoption, a chess engine can be little more than a command-line application.
 
-**The profiler is your friend.**
+### The profiler is your friend ###
+
 Past a certain point, it is almost impossible to make informed hunches about the performance of a complicated program.
 A chess engine is extremely hard to reason about because of its recursive and exponentially-growing tree searches.
 
@@ -36,7 +38,8 @@ The output of `gprof` is verbose, but there are tools out there to convert it to
 Once you have mathematical performance data, you can make informed decisions about what parts of your code most urgently need optimization.
 A profiler's conclusions are often surprising, but they are empirical and you should trust them.
 
-**The C++ Standard Library is slow.**
+### The C++ Standard Library is slow ###
+
 The standard library offers lots of convenient and easily-resizable data structures.
 However, this flexibility inevitably comes with increased overhead, even if you don't take advantage of it.
 A chess board, for instance, has constant and static dimensions.
@@ -45,7 +48,8 @@ I originally wrote my chessboard as a `vector<vector<SquareContents>>`, then as 
 With each change, the engine's all-around performance improved noticeably.
 A simple and low-level data structure was the right tool for the job.
 
-**Strings are slow.**
+### Strings are slow ###
+
 Compared to numbers, strings are a heavy-duty data type.
 Frequent string operations and string-centered computations are bad for performance.
 
@@ -53,7 +57,8 @@ One time when I was lazy, I defined my equality operators for my `Move` and `Squ
 It may look like a simple one-liner at this level, but my `ToString()` implementations were non-trivial functions that made multiple expensive string concatenation operations.
 Although comparing multiple integer-typed public fields made for a longer comparison function, it was noticeably better for performance.
 
-**Corollary: serialization is extremely slow.**
+### Corollary: serialization is extremely slow ###
+
 If string-building is slow, it follows that the full serialization of complex objects is even slower.
 I once tried to improve performance by storing my position evaluation calculation results in a cache.
 With each position, I would serialize the board position into FEN notation, check the cache for the position, and skip the chess calculations if I got a cache hit.
@@ -65,7 +70,8 @@ According to `gprof`, the engine was spending over three-quarters of its time in
 Even though the cache hit rate was good, serialization was dominating the total runtime.
 The high cost of serialization meant that caching was not a worthwhile optimization.
 
-**AI performance can be drastically improved with little effort.**
+### AI performance can be drastically improved with little effort ###
+
 For an AI to have acceptable speed, its search space must be kept at a manageable size.
 The search tree grows exponentially with increasing depth.
 The biggest performance gains will happen when you reduce the number of nodes that need to be processed.
@@ -79,7 +85,8 @@ Capture moves are often the best move in a position, often by a wide margin.
 If an optimal move is found early, the non-optimal moves will quickly be competing against a high benchmark and alpha-beta pruning will quickly eliminate them.
 You may be adding some extra linear-time processing, but it's all worth it if you can remove some exponential-time tree-searching.
 
-**If it's not in the search tree, it doesn't exist.**
+### If it's not in the search tree, it doesn't exist ###
+
 The position below is from one of my engine's test games.
 The engine is playing white and [my brother](https://m-socha.github.io) is playing black.
 
@@ -111,6 +118,7 @@ As far as the algorithm was concerned, a threat that can be delayed is not a thr
 It is very difficult to force a limited-depth AI to think about the long-term strategic consequences of its actions.
 The engine's short-term greed for the `e4` pawn was simply too great.
 
-**Conclusion:**
+### Conclusion ###
+
 A chess engine is an interesting case study in performance-oriented programming and basic AI.
 There is still much to improve and hopefully I'll revisit the codebase again soon.
