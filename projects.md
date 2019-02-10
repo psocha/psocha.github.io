@@ -47,7 +47,16 @@ The engine currently plays at the level of a human beginner, though it is able t
 
 Source code is available at my [GitHub](https://github.com/psocha/ChessEngine). A detailed blog post about the project can be found [here](/blog/chess-engine.html).
 
-## External Projects with Major Contributions ##
+## Stochastic Sudoku Solver ##
+_Stack: JavaScript, HTML, CSS_
+
+![Stochastic Sudoku Solver](/assets/images/sss.png){:class="img-responsive"}
+
+A web widget that solves Sudoku puzzles using a probabilistic approach called simulated annealing.
+
+[Try it out here.](/widgets/sudokusolver)
+
+# External Projects with Major Contributions #
 
 ### [Manifold](https://manifold-lang.github.io) ###
 _Stack: Java_
@@ -62,7 +71,7 @@ We ended up making a prototype that can handle very simple circuits.
 We also wrote a [research paper](/assets/documents/manifold-paper.pdf) on our work which was accepted for the 2017 IEEE Canadian Conference on Electrical and Computer Engineering.
 We presented our paper at CCECE 2017 in Windsor, ON in May 2017.
 
-## External Projects with Minor Contributions ##
+# External Projects with Minor Contributions #
 
 [Global Visionaries](http://globalvisionaries.org/): a Wordpress site made in a group as part of the 2016 [Seattle GiveCamp](http://www.seattlegivecamp.org/) charitable hackathon.
 
