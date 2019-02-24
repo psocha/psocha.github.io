@@ -33,7 +33,8 @@ HSPs tend to share a fairly consistent set of traits:
 HSPs typically appear to the outside world as shy, weak, emotional, slow-minded, cowardly, and eccentric.
 In return, HSPs are blessed with high attention to detail, a perfectionist drive, a desire to understand things thoroughly rather than superficially, a robust moral compass, a reliable and dependable character, a strong memory, and a high intensity of focus.
 
-HSPs are dealt a tricky hand in life and often struggle to wield the double-edged sword that comes with their trait.
+HSPs are dealt a mixed hand in life and often struggle to wield the double-edged sword that comes with their trait.
+It takes practice for HSPs to learn how not to be overwhelmed by the world and how to use their sensitivity in useful ways.
 Owing to the difficulty of learning to leverage their trait, many HSPs, myself included, end up being "late bloomers".
 For example, I was a B/C student in first grade, a B student in most of primary school, an A/B student in middle school, and a straight A+ student in high school.
 
@@ -74,7 +75,7 @@ Mentorship helps build positive working relationships and social acceptance, bot
 **Culture-Building.**
 The emotions of other people are contagious for HSPs.
 HSPs therefore hate conflict and negativity; their instinct is to avoid or to defuse tense or upsetting situations whenever possible.
-As a result, HSPs are typically an assuring and calming presence within their teams.
+As a result, HSPs typically work to make themselves an assuring and calming presence within their teams.
 
 ## Things HS Programmers Are Bad At ##
 
