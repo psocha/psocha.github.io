@@ -6,8 +6,8 @@ categories: personal organization
 ---
 
 The most influential book I read in 2018 was Elaine Aron's ["The Highly Sensitive Person"](https://hsperson.com/books/the-highly-sensitive-person/).
-The book answered my most pressing unsolved questions about myself by showing that almost everything remotely special about me - my talents, my weaknesses, my interests, my aversions - stems from a single root cause.
-That root cause is my extremely high [sensory processing sensitivity](https://en.wikipedia.org/wiki/Sensory_processing_sensitivity), which puts me in a bucket of people termed "highly sensitive persons" (HSPs).
+The book answered many of my unsolved questions about myself by showing that almost everything notable about me - my talents, my weaknesses, my interests, my aversions - stems from a single root cause.
+That root cause is my high [sensory processing sensitivity](https://en.wikipedia.org/wiki/Sensory_processing_sensitivity), which puts me in a bucket of people termed "highly sensitive persons" (HSPs).
 
 As a trait, sensory processing sensitivity refers to the amount and depth of automatic processing done by the brain and nervous system in response to stimuli.
 The trait is believed to be largely hereditary and immutable; multiple genes have been identified in recent years that may be related to it.
@@ -19,23 +19,23 @@ HSPs tend to share a fairly consistent set of traits:
 - Easily frazzled by noise, lights, odors, crowdedness, clutter, chaos, time pressure, temperature, and hunger
 - Overwhelmingly introverted
 - Conscientious, detail-oriented, and attuned to subtleties in the environment
-- Extremely susceptible to emotional contagion from other people
+- Susceptible to emotional contagion from other people
 - A deep inner world and an active imagination
-- A very deep and detailed memory
+- A deep and detailed memory
 - Slow at making decisions and acting on them, even when the choices are trivial or inconsequential
 - Fearful of making mistakes or forgetting things
 - Poor at multitasking and at performing under observation
 - Attentive to signs of real or imaginary disapproval from other people
 - Resistant to changes and novelties in life, especially when the change is sudden rather than incremental
 - Easily startled, jolted, or knocked out of rhythm
-- Extremely averse to conflict and confrontation
+- Averse to conflict and confrontation
 
 HSPs typically appear to the outside world as shy, weak, emotional, slow-minded, cowardly, and eccentric.
 In return, HSPs are blessed with high attention to detail, a perfectionist drive, a desire to understand things thoroughly rather than superficially, a robust moral compass, a reliable and dependable character, a strong memory, and a high intensity of focus.
 
 HSPs are dealt a mixed hand in life and often struggle to wield the double-edged sword that comes with their trait.
-It takes practice for HSPs to learn how not to be overwhelmed by the world and how to use their sensitivity in useful ways.
-Owing to the difficulty of learning to leverage their trait, many HSPs, myself included, end up being "late bloomers".
+It takes practice for HSPs to learn to use their sensitivity constructively without letting the world overwhelm them.
+Owing to the difficulty of learning to leverage their trait, many HSPs, myself included, end up being late bloomers.
 For example, I was a B/C student in first grade, a B student in most of primary school, an A/B student in middle school, and a straight A+ student in high school.
 
 ## The HSP as a Software Engineer ##
@@ -60,7 +60,7 @@ Code smells, discrepancies with requirements, logic bugs, and sloppiness will le
 
 **Handling Fragile Code.**
 HSPs are naturally careful and thorough.
-They are also afraid of making mistakes, since mistakes bring forth much-dreaded criticism and condemnation from others.
+They are also afraid of making mistakes, since mistakes can bring forth much-dreaded criticism and condemnation from others.
 When a coding job needs to be done perfectly and there is little room for sloppiness, HSPs can be trusted to do the job right.
 
 **Documentation.**
@@ -92,11 +92,11 @@ Deviations from normal routines such as late worknights, business travel, or nig
 **Multitasking.**
 Large todo lists frazzle HSPs and put them into a reactionary mindset.
 In the bad case, they will enter panic mode, switch between tasks excessively, and get little work done.
-In the "good" case, they will prioritize tasks that are small or tasks that quickly get other people off their backs; these tasks may not necessarily be the most important or high-impact tasks for them to be doing.
+In the "good" case, they will prioritize tasks that are small or tasks that quickly get other people off their backs; these tasks may not necessarily be the most important or impactful tasks for them to be doing.
 
 **Overly Broad Problems.**
 HSPs are scared of making mistakes and they therefore tend to overthink things.
-If a problem has too many choices or too many parameters to consider, HSPs will often fall into "analysis paralysis" and endlessly delay making final decisions.
+If a problem has too many choices or too many parameters to consider, HSPs will often fall into analysis paralysis and endlessly delay making final decisions.
 When this happens, clarification and support from other people is usually necessary to get HSPs out of their rut.
 
 **Management.**
@@ -116,12 +116,11 @@ A team with one HSP on it is more robust than a team with zero HSPs and much mor
 HSPs' thoroughness and reliability are assets for virtually any team.
 HSPs are good at upholding high standards and adding tranquility to their team's culture.
 They are good thinkers and will usually produce good insights if given enough time to think things over.
-However, "decision fatigue" weights heavily on HSPs and they are usually averse to making hard decisions.
+However, decision fatigue weights heavily on HSPs and they are usually averse to making hard choices.
 HSPs are ultimately more comfortable as advisors rather than as leaders.
 
 HSPs thrive in positive social environments and wilt in negative environments.
 A culture of trust and social acceptance is essential for making HSPs feel comfortable and bringing out their best work.
 Other people should resist the urge to try to change or to "fix" an HSP.
-Nearly all HSPs, myself included, have wished at some point that we were born "normal" people.
-Sensitivity appears to be an immutable genetic trait; trying to "fix" an HSP will only create feelings of alienation and social rejection.
+Nearly all HSPs, myself included, sometimes get exasperated about our trait and wish we were born a little more "normal".
 The positive aspects of the HSP trait cannot be unbundled from the negative aspects; both of them ultimately have the same root causes.

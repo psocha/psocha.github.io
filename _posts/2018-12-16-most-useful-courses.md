@@ -35,8 +35,8 @@ The cognitive load principle applies not only to writing UIs for end-users to us
 _Complexity rules the day._
 
 The optimal algorithm for a problem is an intrinsic property of the problem itself.
-It can be proven that some problems don't have algorithms faster than a certain time complexity.
-It can even be proven in some cases that a problem is not solvable at all, the Halting Problem being the textbook example.
+It's possible to prove that some problems don't have algorithms faster than a certain time complexity.
+It's even possible to prove in some cases that a problem is not solvable at all, the Halting Problem being the textbook example.
 If solutions are properties of problems, then finding good algorithmic solutions is a matter of discovery rather than a matter of engineering.
 Past a certain point, a problem's complexity cannot be bypassed and there are no further shortcuts.
 
@@ -50,7 +50,7 @@ Structure and order require overhead to set up and effort to maintain, but depen
 ### 5. Computer Networks - ECE 358 ###
 _Protocols make the world go round._
 
-Massive distributed projects like the internet are possibly only because computers around the world all speak the same language.
+Massive distributed projects like the internet are possible only because computers around the world all speak the same language.
 Without protocols, all messages are just incomprehensible streams of bits with no decoding instructions.
 Protocols like IP, TCP, and HTTP use a consistent structure with consistently-placed metadata, allowing recipients to decipher them.
 Each of the common protocols above also has solutions to inevitable problems such as missing, corrupt, or out-of-order messages.
@@ -60,12 +60,12 @@ The standard lower-level protocols demonstrate the robust elegance that all prog
 ### 6. Cooperative and Adaptive Algorithms - ECE 457A ###
 _Intractably-large problems are still solvable._
 
-Many mathematical problems have overwhelmingly-large search spaces that computers will never be powerful enough to explore in full, the traveling salesman problem being the textbook example.
+Many mathematical problems have enormous search spaces that computers will never be powerful enough to explore in full, the traveling salesman problem being the textbook example.
 Just because some problems are mathematically intractable doesn't mean that all hope is lost.
 For example, human brains are incapable of evaluating millions of chess positions per second, yet this doesn't prevent good human chess players from existing anyway.
 Human brains deal with decision overload by first drastically cutting down the number of choices using simple heuristics.
 They then explore promising options in detail while dismissing bad ideas quickly, always staying responsive to feedback along the way.
-Computer algorithms can be made to run in a similar adaptive fashion., strategically avoiding the unproductive parts of the search tree.
+Computer algorithms can be made to run in a similar adaptive fashion, strategically avoiding the unproductive parts of the search tree.
 A non-brute-force AI won't give you perfect and optimal answers every time, but "good enough" is often all you need.
 
 ### 7. Concurrency - CS 343 ###

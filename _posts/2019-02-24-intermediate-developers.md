@@ -10,7 +10,7 @@ My promotion to level II surprised me when I first heard about it, mainly becaus
 
 However, looking back, I can tell that I'm a much better engineer now than I was a year ago.
 There hadn't been any moments when something "clicked" inside me and I suddenly started performing at a higher level.
-Instead, my habits and my unconscious thought processes incrementally evolved and improved over time as I gained experience and learned from past frustrations.
+Instead, my habits and my unconscious thought processes incrementally evolved over time as I gained experience and learned from past frustrations.
 I am no longer the newest programmer on my team and I have also had the chance to watch other new developers experience a similar growth trajectory.
 
 So what does it mean to be a mid-tier developer?
@@ -23,7 +23,7 @@ Based on my observations of my personal growth and the growth of developers arou
 | Are disdainful of the design and planning stages and are eager to quickly start coding. | Understand that time spent on a robust design will pay for itself later on. |
 | Believe that bug-free code is possible if enough diligence is applied. | Understand that software bugs and programmer errors are inevitable; consider how to add speedy problem detection and mitigation to their major feature items. |
 | Believe that technical debt arises in codebases because past programmers were stupid. | Understand that technical debt is an inevitable result of changing requirements, increased complexity, increased scalability needs, staff turnover, and simple entropy. |
-| View old codebases as irredeemable and have fantasies about rewriting them from scratch. | Understand that codebases contain lots of implicit crystallized knowledge and are skeptical about revolutionary refactorings. |
+| View old codebases as irredeemable and have fantasies about rewriting them from scratch. | Understand that codebases contain lots of implicit crystallized knowledge and that giant refactorings are risky |
 | Significantly underestimate the time necessary to complete almost all programming tasks. | Still make lots of underestimates, but understand that estimates should be adjusted upward when projects have lots of ambiguity or require lots of collaboration. |
 | View code reviews as an obstacle in their way; they "win" if their changes get quickly approved and "lose" if they get heavily criticized. | View code reviews as a critical quality assurance step and as the easiest point in the software lifecycle to catch defects. |
 | Knowingly submit unfinished code with a reassurance that it can always be fixed later. | Know that most code, once submitted, is left alone untouched for a very long time; aim to minimize future regrets. |
@@ -42,7 +42,7 @@ Have you ever had to do any of these difficult and frustrating tasks?
 - Make sense of incomplete or incomprehensively-written specifications and bug reports
 - Fix your code or design document after it has gotten a barrage of negative review feedback and your spirits are crushed
 
-An intermediate developer has been around long enough to have experienced nearly all of these things.
+Anyone with a "Software Engineer II" or equivalent job title has likely done all of these things.
 Intermediate developers have had many chances to see for themselves what happens when coding (often their own) is done rashly and impulsively.
 Frustration acts as an empathy-building exercise.
 
