@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Willpower_**](/book-summaries/willpower) by Roy Baumeister and John Tierney
+
+<small>Willpower - humanity's most powerful trait - is notoriously scarce and fickle. What are the best ways to use it and grow it?</small>
+
+&nbsp;
+
 [**_How Children Succeed_**](/book-summaries/how-children-succeed) by Paul Tough
 
 <small>Schools are preoccupied with cognitive skills. Emotional and character skills are stronger determinants of success, and better yet, they are trainable.</small>
