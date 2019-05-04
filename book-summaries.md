@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Cheating Lessons_**](/book-summaries/cheating-lessons) by James Lang
+
+<small>Academic cheating remains widespread in spite of harsh punishments and patronizing ethics lectures. How can we change the incentive structure?</small>
+
+&nbsp;
+
 [**_Willpower_**](/book-summaries/willpower) by Roy Baumeister and John Tierney
 
 <small>Willpower - humanity's most powerful trait - is notoriously scarce and fickle. What are the best ways to use it and grow it?</small>
