@@ -15,6 +15,18 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_i-Minds_**](/book-summaries/i-minds) by Mari Swingle
+
+<small>The internet is putting many of our brains into a state of chronic over-arousal. What does this mean for our collective mental health?</small>
+
+&nbsp;
+
+[**_Homo Deus_**](/book-summaries/homo-deus) by Yuval Noah Harari
+
+<small>After millennia of struggle, humanity has finally solved the problems of famine, plague, and war. What's next on the agenda?</small>
+
+&nbsp;
+
 [**_Cheating Lessons_**](/book-summaries/cheating-lessons) by James Lang
 
 <small>Academic cheating remains widespread in spite of harsh punishments and patronizing ethics lectures. How can we change the incentive structure?</small>
