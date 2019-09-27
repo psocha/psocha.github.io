@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Boom_**](/book-summaries/the-boom) by Russell Gold
+
+<small>In merely a decade, the rise of fracking has profoundly transformed the American energy landscape.</small>
+
+&nbsp;
+
 [**_i-Minds_**](/book-summaries/i-minds) by Mari Swingle
 
 <small>The internet is putting many of our brains into a state of chronic over-arousal. What does this mean for our collective mental health?</small>
