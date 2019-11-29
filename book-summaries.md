@@ -13,6 +13,19 @@ author_profile: true
 
 Brief summaries of non-fiction books I've read recently, mostly not tech-related.
 
+
+&nbsp;
+
+[**_Quiet_**](/book-summaries/quiet) by Susan Cain
+
+<small>Modern western culture overwhelmingly favors extroversion over introversion, leaving introverts misunderstood and underappreciated.</small>
+
+&nbsp;
+
+[**_The Millionaire Next Door_**](/book-summaries/the-millionaire-next-door) by Thomas Stanley
+
+<small>In contrast to media portrayal and public belief, most of America's wealthy people live surprisingly mundane and ordinary lives.</small>
+
 &nbsp;
 
 [**_The Boom_**](/book-summaries/the-boom) by Russell Gold
