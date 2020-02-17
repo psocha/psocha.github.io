@@ -9,14 +9,14 @@ author_profile: true
 
 The systematic study of nutrition is a relatively new science.
 It typically aims to reduce food and nutrition to its most basic components, then tries to build a perfect diet from the bottom up.
-Nutrition is a troubled science, beset by problems such as inconsistent results, enormous numbers of confounding variables, complicated co-relationships between factors, the high cost of conducting long-term studies, unreliable answers from survey respondents when asked about what they eat, and pressure from food manufacturers and agricultural lobbies.
+Nutrition is a troubled science, beset by problems such as inconsistent results, enormous numbers of confounding variables, complicated co-relationships between factors, the high cost of conducting long-term studies, unreliable study participants, and pressure from food manufacturers and agricultural lobbies.
 Journalists, advertisers, and government regulators latch onto every scientific result, no matter how flimsy.
 The end result is a confusing landscape where established truth is constantly changing.
 Various foods and nutrients regularly alternate between being praised and being vilified.
 
 The American diet presents several paradoxes.
 No other diet has been more strongly influenced by food science, yet no other diet has been implicated so strongly by food science as a cause of cardiovascular disease, diabetes, and cancer.
-No other culture is so anxious about making bad nutritional choices, yet no culture appears to be worse at making such choices.
+No other culture is so anxious about making bad nutritional choices, yet no culture appears to make worse nutritional choices.
 Compared to other countries, Americans are exceptional in the high number of calories they eat, the high number of calories that are derived from grains, the low proportion of their incomes they spend on food, the low proportion of time they spend on food preparation, the low diversity of crops they eat, and the high proportion of calories that are consumed as snacks rather than during meals.
 
 The defining nutritional trend of the past few decades was the low-fat craze, spurred by circumstantial study evidence correlating high saturated fat consumption with high blood cholesterol and high blood cholesterol with cardiovascular disease.
