@@ -16,6 +16,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Seven Habits of Highly Effective People_**](/book-summaries/seven-habits) by Stephen Covey
+
+<small>Excellence comes from strong character, principle-centered living, and entrenched habits, not from superficial tricks and life hacks.</small>
+
+&nbsp;
+
 [**_Quiet_**](/book-summaries/quiet) by Susan Cain
 
 <small>Modern western culture overwhelmingly favors extroversion over introversion, leaving introverts misunderstood and underappreciated.</small>
