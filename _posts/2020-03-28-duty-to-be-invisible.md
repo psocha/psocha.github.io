@@ -58,8 +58,9 @@ My microwave has never forced me to make an account, failed to respond to my inp
 
 Why can't our software be as good as our supply chains and our home appliances?
 In theory, software should be more dependable than any technology that came before it.
-Unlike institutions and supply chains, software is immune from the fallibility of human decisions and can act predictably at all times.
+Unlike institutions and supply chains, software is immune from the fallibility of human decisions and can act in a consistent and predictable manner.
 Unlike physical gadgets like cars and microwave ovens, software is immune from physical wear-and-tear.
+Unlike most physical items that are given away and become inaccessible, software can be monitored from afar and updated remotely if problems arise.
 
 There are many reasons why software is more prone to high-visibility failures than most other services.
 The main reason software development is so difficult is because it is so complex.
