@@ -7,7 +7,7 @@ classes: wide
 ---
 ___
 
-**Languages:** C++, C#, Java, JavaScript, Python, SQL, Go, Ruby, HTML, CSS, PHP, Objective-C
+**Languages:** C#, C++, Java, JavaScript, Python, SQL, Go, Ruby, HTML, CSS, PHP, Objective-C
 
 **Platforms:** .NET, Android, iOS, node.js, Rails, PostgreSQL, MySQL, Hadoop, jQuery, JSP
 
@@ -17,11 +17,14 @@ ___
 ___
 
 ### Microsoft (Azure Batch) ###
-Software Engineer, *Redmond, WA, Jul 2017 – present*
+Software Engineer II, *Redmond, WA, Jul 2018 – present*
+
+Software Engineer, *Redmond, WA, Jul 2017 - Jul 2018*
 
 - Held ownership of multiple C# and C++ backend microservices for Azure Batch, a scalable and high-availability service for running computationally-intensive batch jobs in the cloud
+- Drove several major features from design to global rollout, including per-family VM quotas, private service connections, and spot-priced VMs
 - Contributed to the feature completion, system-level integration, and staged rollout of a newly-rewritten VM pool management service
-- Expanded and improved the Batch service's internal tools for logging, debugging, alerting, and incident mitigation
+- Expanded and improved the Batch service's internal tools for logging, monitoring, debugging, alerting, and incident mitigation
 
 # Internships #
 ___
@@ -66,6 +69,6 @@ ___
 # Education #
 ___
 
-**Bachelor of Software Engineering, Honours Co-op**, University of Waterloo, 2012 – 2017
+**Bachelor of Software Engineering, Honours Co-op, With Distinction**, University of Waterloo, 2012 – 2017
 - **Cumulative Average:** 93.5% as percentage, 3.96 / 4.00 as GPA
 - **Extracurricular Activities:** Midnight Sun Solar Race Car Team, Undergraduate Research Assistant, Waterloo Engineering Endowment Fund
