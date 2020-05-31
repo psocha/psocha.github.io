@@ -71,4 +71,4 @@ It's ultimately a question of short-term pain versus long-term gain, albeit one 
 Are rewrites worthwhile?
 It's a case-by-case question and one can never be certain about the conclusion.
 The only way to be certain is to compare the rewrite timeline with a parallel timeline in which the rewrite never happened.
-However, with good design and good management (which I'll discuss in a separate post), the likelihood of a successful rewrite can be greatly increased.
+However, with good design and good management ([discussed here](/blog/successful-rewrite)), the likelihood of a successful rewrite can be greatly increased.

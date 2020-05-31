@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "How to Successfully Rewrite a Microservice"
+title: "Best Practices for Rewriting a Microservice"
 date: 2019-08-17 10:00:00 -0700
 categories: development
 ---
