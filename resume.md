@@ -17,9 +17,9 @@ ___
 ___
 
 ### Microsoft (Azure Batch) ###
-Software Engineer II, *Redmond, WA, Jul 2018 – present*
+Software Engineer II, *Redmond, WA, Sep 2018 – present*
 
-Software Engineer, *Redmond, WA, Jul 2017 - Jul 2018*
+Software Engineer, *Redmond, WA, Jul 2017 - Sep 2018*
 
 - Held ownership of multiple C# and C++ backend microservices for Azure Batch, a scalable and high-availability service for running computationally-intensive batch jobs in the cloud
 - Drove several major features from design to global rollout, including per-family VM quotas, private service connections, and spot-priced VMs
