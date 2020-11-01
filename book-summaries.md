@@ -16,6 +16,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Outliers_**](/book-summaries/outliers) by Malcolm Gladwell
+
+<small>Success does not happen in isolation - it requires a favorable upbringing, access to opportunity, and good old-fashioned effort.</small>
+
+&nbsp;
+
 [**_The Seven Habits of Highly Effective People_**](/book-summaries/seven-habits) by Stephen Covey
 
 <small>Excellence comes from strong character, principle-centered living, and entrenched habits, not from superficial tricks and life hacks.</small>
