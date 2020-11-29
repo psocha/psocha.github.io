@@ -13,6 +13,11 @@ author_profile: true
 
 Brief summaries of non-fiction books I've read recently, mostly not tech-related.
 
+&nbsp;
+
+[**_Talking to Strangers_**](/book-summaries/talking-to-strangers) by Malcolm Gladwell
+
+<small>If making correct judgments about strangers is such an important life skill, why are we so bad at it?</small>
 
 &nbsp;
 
