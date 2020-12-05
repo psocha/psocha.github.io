@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Predictably Irrational_**](/book-summaries/predictably-irrational) by Dan Ariely
+
+<small>Human psychology compels us to make irrational economic choices and to make the same mistakes repeatedly.</small>
+
+&nbsp;
+
 [**_Talking to Strangers_**](/book-summaries/talking-to-strangers) by Malcolm Gladwell
 
 <small>If making correct judgments about strangers is such an important life skill, why are we so bad at it?</small>
