@@ -5,7 +5,7 @@ permalink: /book-summaries/predictably-irrational
 author_profile: true
 ---
 
-![Predictably Irrational](/assets/images/predictably-irrational.jpg){:class="img-responsive"}
+![Predictably Irrational](/assets/images/predictably-irrational-2.jpg){:class="img-responsive"}
 
 Traditional economic theory assumes that all participants in an economy are rational and self-serving, systematically finding ways to maximize their utility.
 However, anyone would agree that these assumptions are oversimplifications and that people make plenty of irrational decisions in practice.
