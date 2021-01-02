@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Pale Rider_**](/book-summaries/pale-rider) by Laura Spinney
+
+<small>A severe disease, a globalizing war-torn world, a crowded and impoverished society, and a weak medical response all combined to make the Spanish Flu a perfect storm.</small>
+
+&nbsp;
+
 [**_Predictably Irrational_**](/book-summaries/predictably-irrational) by Dan Ariely
 
 <small>Human psychology compels us to make irrational economic choices and to make the same mistakes repeatedly.</small>
