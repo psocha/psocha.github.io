@@ -13,7 +13,7 @@ This ideology was developed mainly during the industrial era, when urban cores w
 
 In modern times, suburban sprawl and the "super-commuter" lifestyle are a social engineering disaster, responsible for many modern ills such as obesity, friendlessness, time scarcity, helicopter parenting, paranoid political ideologies, consumerist rat races, road-rage-induced chronic stress, chronic-stress-induced divorces, socially-stunted youth, low civic engagement, lack of easy access to amenities, rigid class and ethnic segregation, low class mobility, and overstretched infrastructure budgets.
 The main benefit of suburban sprawl - larger homes - provides little improvement to happiness due to hedonic adaptation.
-Even has household wealth has risen over the decades, self-reported happiness remains stagnant at best.
+Even as household wealth has risen over the decades, self-reported happiness remains stagnant at best.
 
 Social bonds are the greatest determinant of happiness.
 High density alone is not a magic solution to the social problems of sprawl, since many urban residents report feeling crowded yet solitary at the same time.
