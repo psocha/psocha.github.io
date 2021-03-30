@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Apocalypse Never_**](/book-summaries/apocalypse-never) by Michael Shellenberger
+
+<small>By increasingly walling off the human world from the natural world, humanity is helping to ensure the natural world's survival.</small>
+
+&nbsp;
+
 [**_Pale Rider_**](/book-summaries/pale-rider) by Laura Spinney
 
 <small>A severe disease, a globalizing war-torn world, a crowded and impoverished society, and a weak medical response all combined to make the Spanish Flu a perfect storm.</small>
