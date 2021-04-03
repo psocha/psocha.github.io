@@ -12,7 +12,7 @@ I have been tracking my pull request counts in my logbook since starting my curr
 Bucketing all completed pull requests into the month in which they were merged, the result is this timechart.
 March 2021 is the first month where the count is zero.
 
-![Pull Requests per Month](/assets/images/PullRequestHistory.png)
+![Pull Requests per Month](/assets/images/PullRequestHistory.PNG)
 
 The first trend to note is that my pull request counts at my current job are (and have always been) quite low.
 If high-school-age me saw these kinds of numbers, he would have wondered what I'm doing all day.
