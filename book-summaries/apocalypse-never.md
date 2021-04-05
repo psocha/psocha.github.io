@@ -23,7 +23,7 @@ Today's environmental issues are real but so is human ingenuity.
 ## Stories of progress that go unacknowledged ##
 
 **The rise of protected areas.**
-For most of human history, people enroached on wilderness with low restraint, seeing nature as something to be conquered rather than something to be preserved.
+For most of human history, people encroached on wilderness with low restraint, seeing nature as something to be conquered rather than something to be preserved.
 Only with the rise of industrialization and urbanization did people start romanticizing wilderness and wanting to leave some of it in a pristine state.
 The world now has hundreds of thousands of protected areas collectively spanning 15% of its land and 8% of its oceans.
 Countless habitats have been preserved and the populations of many vulnerable species have stabilized.
