@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Rational Optimist_**](/book-summaries/the-rational-optimist) by Matt Ridley
+
+<small>Humanity's prosperity is thanks to the rise of specialization, exchange, and interdependence, all of which are still growing today.</small>
+
+&nbsp;
+
 [**_Apocalypse Never_**](/book-summaries/apocalypse-never) by Michael Shellenberger
 
 <small>By increasingly walling off the human world from the natural world, humanity is helping to ensure the natural world's survival.</small>
