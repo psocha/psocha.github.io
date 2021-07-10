@@ -31,7 +31,7 @@ The rise of cities enabled further specialization of workers by supporting econo
 Cities offer businesses more suppliers, more workers, and more customers, while offering individual residents more consumer choices and more work opportunities.
 Transportation, communication, and resource extraction technology improved over time thanks to the exchange of expertise and ideas, allowing for larger and more efficient markets.
 Global supply chains gave people access to the labor and natural resources of almost everywhere in the world.
-The economy truly began booming starting around 200 years ago, when industrialization freed most people from the business of generating their own energy.
+The economy truly began booming starting around 200 years ago when industrialization freed most people from the business of generating their own energy.
 Technology and urbanization greatly simplified the job of running a household, freeing women from the business of tending to families full-time and allowing them to become independent producer-consumers themselves.
 In recent years, modern communication technology enabled the free flow of ideas between historically unconnected people, enabling an explosion of specialization and innovation in intellectual domains.
 
@@ -52,7 +52,7 @@ Unlike agrarian societies, industrial societies are environmentally conscious an
 City dwellers voluntarily have children at sub-replacement levels, preventing the world population from growing without bound.
 
 The journey towards specialized interdependence has been choppy and has had many setbacks.
-Parasitic political, religious, and financial classes exist in all societies, extorting surpluses, discouraging innovation, and calcifying existing social structures.
+Parasitic political, religious, financial, and criminal classes exist in all societies, extorting surpluses, discouraging innovation, and calcifying existing social structures.
 Famines, wars, and plagues have occasionally crashed local populations, destroying parts of humanity's collective brain in the process.
 Large and established institutions have a tendency to become stagnant and complacent, milking their cash cows and suppressing competition instead of innovating.
 Governments have repeatedly misallocated society's resources for war and glory projects, smothered enterprises with excessive bureaucracy, and protected local businesses from superior outside competition in the name of domestic self-sufficiency.
