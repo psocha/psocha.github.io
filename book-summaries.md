@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Great Convergence**](/book-summaries/the-great-convergence) by Richard Baldwin
+
+<small>The first wave of globalization increased inequality. The current new wave of globalization is reducing it.</small>
+
+&nbsp;
+
 [**_Exercised_**](/book-summaries/exercised) by Daniel Lieberman
 
 <small>Physical exercise is a strange and unnatural behavior, but modern lifestyles make it essential.</small>
