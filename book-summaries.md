@@ -15,7 +15,13 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
-[**_The Great Convergence**](/book-summaries/the-great-convergence) by Richard Baldwin
+[**_The Story of Earth_**](/book-summaries/the-story-of-earth) by Robert Hazen
+
+<small>Earth is a notable world not only because of life, but also because of how often its surface has been reshaped and remade.</small>
+
+&nbsp;
+
+[**_The Great Convergence_**](/book-summaries/the-great-convergence) by Richard Baldwin
 
 <small>The first wave of globalization increased inequality. The current new wave of globalization is reducing it.</small>
 
