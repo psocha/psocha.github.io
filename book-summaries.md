@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Way We Never Were_**](/book-summaries/the-way-we-never-were) by Stephanie Coontz
+
+<small>There was never a past golden age of "family values," nor is the institution of the family collapsing.</small>
+
+&nbsp;
+
 [**_The Story of Earth_**](/book-summaries/the-story-of-earth) by Robert Hazen
 
 <small>Earth is a notable world not only because of life, but also because of how often its surface has been reshaped and remade.</small>
