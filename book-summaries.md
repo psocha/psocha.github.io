@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Longevity Economy_**](/book-summaries/the-longevity-economy) by Joseph Coughlin
+
+<small>The Baby Boomer generation is poised to defy and rewrite society's old narrative of old age.</small>
+
+&nbsp;
+
 [**_The Way We Never Were_**](/book-summaries/the-way-we-never-were) by Stephanie Coontz
 
 <small>There was never a past golden age of "family values," nor is the institution of the family collapsing.</small>
