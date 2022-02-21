@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Smart People Should Build Things_**](/book-summaries/smart-people-should-build-things) by Andrew Yang
+
+<small>How can we help ensure that America's top graduates go to value-creating and growth-producing industries rather than to Wall Street?</small>
+
+&nbsp;
+
 [**_The Longevity Economy_**](/book-summaries/the-longevity-economy) by Joseph Coughlin
 
 <small>The Baby Boomer generation is poised to defy and rewrite society's old narrative of old age.</small>
