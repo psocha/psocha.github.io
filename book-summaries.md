@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Myths of Happiness_**](/book-summaries/the-myths-of-happiness) by Sonja Lyubomirsky
+
+<small>People are bad at predicting the things that will bring them happiness in the future.</small>
+
+&nbsp;
+
 [**_Smart People Should Build Things_**](/book-summaries/smart-people-should-build-things) by Andrew Yang
 
 <small>How can we help ensure that America's top graduates go to value-creating and growth-producing industries rather than to Wall Street?</small>
