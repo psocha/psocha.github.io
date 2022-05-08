@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Sugar_**](/book-summaries/sugar) by James Walvin
+
+<small>In just a few centuries, sugar went from a luxury spice to a staple necessity and then to a public health pariah.</small>
+
+&nbsp;
+
 [**_The Myths of Happiness_**](/book-summaries/the-myths-of-happiness) by Sonja Lyubomirsky
 
 <small>People are bad at predicting the things that will bring them happiness in the future.</small>
