@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Rule Makers, Rule Breakers_**](/book-summaries/rule-makers-rule-breakers) by Michele Gelfand
+
+<small>One of the most foundational traits of a culture is how tight or loose it is with its rules.</small>
+
+&nbsp;
+
 [**_Sugar_**](/book-summaries/sugar) by James Walvin
 
 <small>In just a few centuries, sugar went from a luxury spice to a staple necessity and then to a public health pariah.</small>
