@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Evolution Gone Wrong_**](/book-summaries/evolution-gone-wrong) by Alex Bezzerides
+
+<small>Bipedalism and big brains have left the human body uniquely fragile.</small>
+
+&nbsp;
+
 [**_Rule Makers, Rule Breakers_**](/book-summaries/rule-makers-rule-breakers) by Michele Gelfand
 
 <small>One of the most foundational traits of a culture is how tight or loose it is with its rules.</small>
