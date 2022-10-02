@@ -15,6 +15,18 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_More From Less_**](/book-summaries/more-from-less) by Andrew McAfee
+
+<small>For the first time in history, GDP growth has become uncoupled from our exploitation of the environment.</small>
+
+&nbsp;
+
+[**_One and Only_**](/book-summaries/one-and-only) by Lauren Sandler
+
+<small>Single-child families are unfairly maligned. Having one child is a valid lifestyle choice with positive statistical outcomes.</small>
+
+&nbsp;
+
 [**_Evolution Gone Wrong_**](/book-summaries/evolution-gone-wrong) by Alex Bezzerides
 
 <small>Bipedalism and big brains have left the human body uniquely fragile.</small>
