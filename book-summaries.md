@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Of Boys and Men_**](/book-summaries/of-boys-and-men) by Richard V. Reeves
+
+<small>Feminism has drastically expanded our culture's idea of womanhood. Manhood now needs a similar transformation.</small>
+
+&nbsp;
+
 [**_More From Less_**](/book-summaries/more-from-less) by Andrew McAfee
 
 <small>For the first time in history, GDP growth has become uncoupled from our exploitation of the environment.</small>
