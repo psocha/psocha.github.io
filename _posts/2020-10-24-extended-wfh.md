@@ -68,14 +68,14 @@ With the disappearance of commutes, a big fraction of the newly-gained time has 
 People have been taking far fewer vacation days than normal, though this is probably a pandemic-specific behavior that won't continue forever.
 
 **Physical activity goes down and must be compensated for.**
-My WFH stint made me appreciate how much spontaneous physical activity (mainly walking) exists during a normal workday at the offce.
+My WFH stint made me appreciate how much spontaneous physical activity (mainly walking) exists during a normal workday at the office.
 First of all, there is no commute during WFH days, so any associated walking never happens.
 At home, the restrooms and the micro-kitchens are usually only a few steps away rather than a few hallways away, which reduces total walking even more.
 Low levels of physical activity cause a slow and long-term malaise whose root cause isn't immediately obvious.
 In my case, once I realized reduced physical activity had become a problem for me, I took care to go outdoors for walks multiple times a day, to take lots of stretch breaks, and to do some strength training once in a while.
 The flexible scheduling of remote work makes it easier to integrate activity throughout the workday.
 
-**Quality of meetings went down, but eventually we adapted.**
+**The quality of meetings went down, but eventually we adapted.**
 Despite improvements in remote meeting technology, remote meetings remain unpleasant due to a mix of technical and human factors.
 People feel less shame in showing up late to a conference call than showing up late to an in-person meeting, so meetings tend to start delayed.
 There is no other group booking your meeting room who will kick you out once you go over time, so remote meetings are more likely to continue past their scheduled end time.
