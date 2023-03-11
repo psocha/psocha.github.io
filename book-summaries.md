@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Power of Regret_**](/book-summaries/the-power-of-regret) by Daniel H. Pink
+
+<small>Regret doesn't feel good, but it offers a useful view into what matters most in life.</small>
+
+&nbsp;
+
 [**_Of Boys and Men_**](/book-summaries/of-boys-and-men) by Richard V. Reeves
 
 <small>Feminism has drastically expanded our culture's idea of womanhood. Manhood now needs a similar transformation.</small>
