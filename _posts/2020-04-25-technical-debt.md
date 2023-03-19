@@ -27,7 +27,7 @@ For illustration, here are some non-sensitive examples of technical debt from th
 New engineers dive into our codebase and tooling expecting everything to be nicely labelled as "Azure Batch", but instead they find a convoluted mess of names including "rd", "reddog", "WindowsAzure", "Azure Task", "WATask, "XTask", and "WABatch". 
 These names fail the "make sense" test and leave our engineers confused, causing us present-day pain as they struggle to ramp up on the codebase.
 The current situation is impossible to justify without invoking the past.
-In this case, the historical context is that Azure has existed under many past times including "Red Dog" (old internal codename) and "Windows Azure", while the Batch service itself was previously called the Task service.
+In this case, the historical context is that Azure has existed under many past names including "Red Dog" (old internal codename) and "Windows Azure", while the Batch service itself was previously called the Task service.
 
 For another example, Azure Batch VM pools allow customers to choose a mix of "dedicated" (regular) VMs and "low-priority" VMs (VMs that are cheaper but with the caveat that they can be preempted from you at any time).
 Dedicated and low-priority VMs may look like equal partners in our UIs and API schema, but they are not equal partners in our backend codebase.

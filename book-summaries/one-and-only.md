@@ -36,7 +36,7 @@ Single-child households are usually the product of circumstances or of intention
 Many couples have independently found one child to be a happy compromise, one that offers the full experience of parenthood while still allowing full participation in the adult world.
 
 The recent rise of only children is part of a longstanding trend towards declining fertility rates in industrialized countries.
-Declining fertility is being driven by birth control, reduced informal social support networks, the rising cost of raising a child, the rising cultural expectations of parents, and declining religious fervor.
+Declining fertility is being driven by birth control, reduced informal social support networks, the rising cost of raising a child, the rising cultural expectations of parents, a cultural quality-over-quantity shift in parenting, and declining religious fervor.
 It is also common for couples to end up having fewer children than initially planned, but couples usually make peace with how things turn out.
 Fertility remains an intensely personal topic that is full of unwelcome opinions from strangers; there is simply no way to please everyone.
 Couples should ensure that their family planning decisions are based on genuine life goals and pragmatic considerations rather than vague fears or vague stereotypes.

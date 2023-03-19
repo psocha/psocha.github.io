@@ -67,7 +67,7 @@ Most of a software project's dependencies are owned and operated by faraway stra
 Given such a dispersed setup, engineers have little room to influence each other's contractual decisions and need to accept whatever they're given.
 
 API writers say, _"This is our API surface. Deal with it."_
-API callers say, _"This is our bizarre usage pattern. Deal with it."_
+API callers say, _"This is our usage pattern. Deal with it."_
 
 The service I work on in my day job has a JSON Swagger spec whose line count is somewhere in the low five figures; nobody besides our compiler has ever read the whole thing.
 Engineers complain about a lack of documentation all the time, but when documentation is available, only small subsets of it are ever of any interest; much of the rest is inferred through intuition.

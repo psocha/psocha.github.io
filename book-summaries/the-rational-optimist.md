@@ -69,7 +69,7 @@ No single person today knows how to make a car or a computer from scratch, but t
 
 The economy of today is more global, more specialized, more interconnected, more dynamic, more bottom-up, and more decentralized than ever.
 More than ever before, the world economy is built around problem-solving rather than around extortion and rent-seeking.
-The predatory governments, religious institutions, and megacorporations who have dominated history are increasingly struggling to keep themselves relevant.
+The predatory governments, religious institutions, and megacorporations that have dominated history are increasingly struggling to keep themselves relevant.
 Unlike the resource-based economies of the past, the modern economy is increasingly built upon knowledge, ideas, and expertise, all of which are much more easily scalable and shareable.
 Scholars have long predicted that the economy is doomed to eventually stagnate or decline due to natural resource constraints, yet economic growth is now accelerating rather than slowing.
 
