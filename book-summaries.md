@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_10% Less Democracy_**](/book-summaries/10-less-democracy) by Garett Jones
+
+<small>Anything is dangerous in excess, and this includes excess democracy.</small>
+
+&nbsp;
+
 [**_The Power of Regret_**](/book-summaries/the-power-of-regret) by Daniel H. Pink
 
 <small>Regret doesn't feel good, but it offers a useful view into what matters most in life.</small>
