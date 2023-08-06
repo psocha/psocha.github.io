@@ -34,7 +34,7 @@ It's also beneficial to have elections staggered in the style of the US Senate s
 **Central banks.**
 Governments have long recognized that the power to increase the money supply is too dangerous and too tempting to be put in the hands of voters or politicians.
 Voters like easy money and low interest rates, but they go on to hate the inflation that comes with it.
-In advanced countries, central banks are usually run by committees of appointed officials with long terms who have a clear mandate (usually to keep inflation in a target range) and are unaccounable to politicians once appointed.
+In advanced countries, central banks are usually run by committees of appointed officials with long terms who have a clear mandate (usually to keep inflation in a target range) and are unaccountable to politicians once appointed.
 Countries with more independent central banks have lower average rates of inflation with seemingly no downsides.
 
 **Technical government jobs.**
