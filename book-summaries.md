@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Fate of Food_**](/book-summaries/the-fate-of-food) by Amanda Little
+
+<small>Population growth and climate change are threatening the world's food security, but human ingenuity is rising to the challenge.</small>
+
+&nbsp;
+
 [**_10% Less Democracy_**](/book-summaries/10-less-democracy) by Garett Jones
 
 <small>Anything is dangerous in excess, and this includes excess democracy.</small>
