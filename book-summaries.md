@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Happy Singlehood_**](/book-summaries/happy-singlehood) by Elyakim Kislev
+
+<small>Unmarried and solo living are on the rise, but this is not a bad trend.</small>
+
+&nbsp;
+
 [**_The Fate of Food_**](/book-summaries/the-fate-of-food) by Amanda Little
 
 <small>Population growth and climate change are threatening the world's food security, but human ingenuity is rising to the challenge.</small>
