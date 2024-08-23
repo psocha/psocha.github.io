@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Fool Proof_**](/book-summaries/fool-proof) by Tess Wilkinson-Ryan
+
+<small>The fear of being a sucker is a powerful but rarely-articulated fear that significantly shapes the social order.</small>
+
+&nbsp;
+
 [**_Happy Singlehood_**](/book-summaries/happy-singlehood) by Elyakim Kislev
 
 <small>Unmarried and solo living are on the rise, but this is not a bad trend.</small>
