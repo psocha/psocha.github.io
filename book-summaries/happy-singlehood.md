@@ -16,7 +16,7 @@ There is a growing gap among urban populations between the household and social 
 # The Rise of Singlehood
 
 Singlehood is advancing in many directions at once.
-The age at first marriage is rising, divorce rates are high, unofficial cohabitation is becoming more popular, longer lifespans often mean longer periods of widowhood, and a growing (but still small) share of people never marry at all.
+The age at first marriage is rising, divorce rates are high, unofficial cohabitation is becoming more popular, longer lifespans often mean longer widowhoods, and a growing (but still small) share of people never marry at all.
 There are many reasons for these trends and for their global reach.
 Rather than actively defying culture, people are largely responding pragmatically to the incentives and threats of an urbanizing and industralizing world.
 
@@ -38,7 +38,7 @@ Despite the pooling of resources theoretically allowing more risk tolerance, mar
 **Divorce risk aversion.**
 When divorce rates rise, singles become more risk-averse, especially women and those from lower economic classes.
 The social and emotional scope of marriage has grown in recent decades, making the choice of partner a more emotionally high-stakes decision.
-Given the threat landscape, singles are raising their standards (sometimes to unreasonable levels), vetting prospective partners for longer, increasingly cohabiting before marriage, increasingly cohabiting indefinitely, and increasingly refusing to take such high risks at all.
+Given the threat landscape, singles are raising their standards (sometimes to unreasonable levels), vetting prospective partners for longer, increasingly cohabiting before marriage, increasingly cohabiting indefinitely, and increasingly refusing to invest so much in one person at all.
 
 **Gender imbalances.**
 Many dating pools have skewed gender ratios, leading to intense competition and lots of leftover singles.

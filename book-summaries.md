@@ -15,6 +15,24 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Marriage, a History_**](/book-summaries/marriage-a-history) by Stephanie Coontz
+
+<small>The love marriage is a relatively recent cultural invention dating only to the Industrial Revolution.</small>
+
+&nbsp;
+
+[**_The Fall and Rise of the Islamic State_**](/book-summaries/the-fall-and-rise-of-the-islamic-state) by Noah Feldman
+
+<small>Today's Muslim-majority countries lack the political checks and balances that made the classical Islamic states so successful.</small>
+
+&nbsp;
+
+[**_No One at the Wheel_**](/book-summaries/no-one-at-the-wheel) by Samuel Schwartz
+
+<small>Autonomous vehicles are poised to improve car culture, but we need a solution for the traffic they will bring.</small>
+
+&nbsp;
+
 [**_Fool Proof_**](/book-summaries/fool-proof) by Tess Wilkinson-Ryan
 
 <small>The fear of being a sucker is a powerful but rarely-articulated fear that significantly shapes the social order.</small>
