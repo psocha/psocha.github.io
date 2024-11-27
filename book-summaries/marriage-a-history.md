@@ -14,7 +14,7 @@ The only properties that appear to be universal are that marriage is socially-sa
 Marriage is the most complex and most heavily-regulated of all relationships.
 Confusion about marriage is widespread; there is a near-universal belief across cultures and time periods that marriage is undergoing a crisis and that modern marriages are more strife-ridden than those of the past.
 
-Many models of marriage currently seen as traditional, especially the love-based breadwinner-homemaker marraige, are actually quite young and quite localized.
+Many models of marriage currently seen as traditional, especially the love-based breadwinner-homemaker marriage, are actually quite young and quite localized.
 For most of human history, marriage has been a thoroughly practical institution rather than a sentimental one.
 
 ### The diplomatic marriages of nomadic cultures
@@ -76,7 +76,7 @@ Even within the same household, the men often enjoyed a distinctly higher of sta
 ### The love marriages of the 19th century West
 
 No development in human history revolutionized marriage as much as the popularization of wage labor and employment outside the home.
-Young people could now earn money on their own without needing an inheritance, dowry, or position in the family business from their parents.
+Young people could now make a living on their own without needing an inheritance, a dowry, or a position in the family business from their parents.
 The once-absolute power that parents held over their children suddenly plummeted.
 Impersonal institutions such as businesses and governments expanded in power at the expense of families.
 Work and non-work became separate domains of life with hard boundaries between them.
@@ -156,7 +156,7 @@ There was something so elegant about the 1950s family ideal that it was widely r
 The 20th century love marriage had always contained internal contradictions that didn't exist back when marriage was a dispassionate economic union.
 Love marriages were supposed to be motivated by love, yet most people who married were (at least partially) motivated by less idealistic goals like avoiding poverty or social stigma.
 Love marriages were supposed to be egalitarian companionships, yet the husband was the boss of the couple.
-Love marriages were supposed to be emotionally close, yet the gendered division of labor often gave spouses less in common with each other than they did with their same-sex friends.
+Love marriages were supposed to be emotionally close, yet the gendered division of labor meant that spouses often had less in common with each other than they did with their same-sex friends.
 Love marriages were supposed to be a safe sanctuary, yet spouses were allowed to abuse each other in ways that would be criminal if done to strangers.
 Love marriages were supposed to bring fulfillment to their members, yet most activity within marriage was mundane and survival-oriented.
 Love marriages were supposed to be built upon a personal choice to stay together, yet in practice they were hard to leave.
@@ -181,7 +181,7 @@ Spouses became increasingly similar to one another in age, education, and income
 Informal cohabitation before marriage became a normal stage of the courtship process.
 Many cohabiting couples stayed that way and did not marry, most often citing a fear of being trapped, an unwillingness to get the government involved in their private matters, or an unwillingness to inherit marriage's old cultural baggage.
 Single-adult households became viable for the first time; bachelorhood became a longer phase of life, divorcees waited longer before re-marrying and were less likely to ever do so, and more people than ever attempted to live as single parents.
-In a break from historical norms, poor people became less likely than rich people to be married.
+For the first time in history, poor people became less likely than rich people to be married.
 
 Conservatives had been warning about the fragility of love marriages for nearly two centuries, and now the moment of reckoning had come.
 Their rhetoric was very gloomy, most commonly citing the high fraction of marriages ending in divorce, the growing fraction of adults unmarried at any given point in time, and the growing fraction of children born out of wedlock.
