@@ -15,6 +15,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Better Angels of our Nature_**](/book-summaries/the-better-angels-of-our-nature) by Steven Pinker
+
+<small>Thanks mainly to governments, literacy, and commerce, violence has declined substantially over the course of human history.</small>
+
+&nbsp;
+
 [**_Marriage, a History_**](/book-summaries/marriage-a-history) by Stephanie Coontz
 
 <small>The love marriage is a relatively recent cultural invention dating only to the Industrial Revolution.</small>

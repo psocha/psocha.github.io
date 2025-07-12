@@ -28,7 +28,7 @@ Farmers everywhere are interested in improving yields and reducing toil, just as
 The industry understands that cannibalizing your legacy business is preferable to losing it, so it is open-minded about new ways of doing things.
 
 As the agricultural sector evaluates the legacy of 20th century factory farming, it faces the question of which trends to double down on and where to backtrack.
-Big Agriculture has damaged its public reputation with procesed foods that turned out unhealthy, pesticides that turned out harmful, and other high-profile mistakes.
+Big Agriculture has damaged its public reputation with processed foods that turned out unhealthy, pesticides that turned out harmful, and other high-profile mistakes.
 Backtrack approaches like organic farming have found niche markets among the wealthy, but they suffer from serious scalability problems.
 Telling people to suck it up and accept higher food prices is also a non-starter; the world's poorest people already spend a large fraction of their income on food and food price spikes are a reliable harbinger of political unrest.
 The greatest innovators in the food industry today are departing from this binary model, often finding new ways of doing things or putting a novel twist on old ideas.

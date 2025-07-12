@@ -15,7 +15,7 @@ Humans are roughly in the middle of the food chain and survive mainly via plant 
 Homo sapiens emerges in East Africa.
 
 **70,000 years ago:**
-Homo sapiens undergoes a "cognitive revolution", likely the result of genetic mutations.
+Homo sapiens undergoes a cognitive revolution, likely the result of genetic mutations.
 These changes give sapiens the ability to believe in and communicate fictional abstractions such as social hierarchies and moral codes.
 Sapiens emerges out of Africa and uses its unique cooperative abilities to conquer all of Afro-Eurasia, driving all other human species to extinction.
 
@@ -28,7 +28,7 @@ Homo sapiens colonizes the Americas and causes a mass extinction there.
 **12,000 years ago:**
 As the Ice Age ended and the world warmed, certain high-maintenance plants like wheat became more abundant.
 Sapiens spent more time caring for such plants until for some bands, it became a full-time sedentary job.
-The "agricultural revolution" was a disaster for Homo sapiens, giving them less-diversified and more precarious diets than their forager ancestors.
+The agricultural revolution was a disaster for Homo sapiens, giving them less-diversified and more precarious diets than their forager ancestors.
 Food surpluses, when they happened, were quickly lost to population growth or extorted by idle ruling elites who kept peace through arbitrary social orders.
 
 **12,000 years ago - present:**
