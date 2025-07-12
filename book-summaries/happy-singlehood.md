@@ -96,7 +96,7 @@ Single people tend to have broader social networks and stronger relationships wi
 Due to the recent inflation in marriage's social scope, married people increasingly neglect their non-spousal relationships, only to later find themselves with no one to turn to when their marriages encounter problems.
 Married people often go on to regret neglecting their non-marital relationships, and these are usually the first relationships that formerly-married people try rebuilding when their marriages end.
 
-# Happines in Singlehood
+# Happiness in Singlehood
 
 About one quarter of today's young people will never marry, about half of the remainder can expect to divorce, and about half of that remainder can expect to become widows.
 Very few people today will avoid an extended stint of singlehood sometime in adulthood.
