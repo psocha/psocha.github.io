@@ -77,6 +77,6 @@ It can also cheating to be perceived as a personal offense against the professor
 Academic integrity offices are necessary for enforcing policy consistently across campus, but unless they make strides in making themselves less unbearable to work with, they will continue to be bypassed.
 
 **Put the students in the conversation.**
-Universities with official student-administered "honor codes" have lower-rates of cheating than schools without honor codes, even though the level of enforcement tends to be around the same.
+Universities with official student-administered "honor codes" have lower rates of cheating than schools without honor codes, even though the level of enforcement tends to be around the same.
 The difference from an academic integrity policy is that honor codes are maintained by student representatives rather than by faceless administrators.
 Students are sensitive to peer pressure, so when they see that student leaders are involved in the campus-wide conversation on integrity, they are more likely to view academic integrity as a community norm rather than an as a top-down imposition.

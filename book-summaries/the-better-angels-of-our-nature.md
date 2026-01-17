@@ -461,7 +461,7 @@ The liberalization of the world was uneven, but no part of the world was untouch
 ### The failure of violent activism
 
 Though this was largely forgotten after 9/11, the late 20th century was a golden age of terrorism.
-The new mass media allowed terrorists to achieve widespread notoriety on a small budget.
+The new mass media made it possible for terrorists to achieve widespread notoriety on a small budget.
 Most terrorist groups were religious, secessionist, or Marxist in their ideology.
 Terrorism is good at attracting attention to itself, but overall it has never been more than a tiny fraction of overall violence.
 No terrorist group anywhere in the world achieved its stated political goals and very few groups survived longer than a decade.

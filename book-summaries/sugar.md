@@ -40,7 +40,7 @@ Sugar was widely used as an additive to make ordinary foods more palatable, as t
 Sugar's most visible role was as a sweetener of bitter beverages; Britain's famous tea culture and America's famous coffee culture both arose during this time.
 Desserts evolved into a standalone course of a meal.
 Cakes became a common way to celebrate occasions like weddings.
-Sugar production byproducts like molasses and rum gained popularity too; rum caused a significant drunkenness problem, especially among native Americans.
+Sugar production byproducts like molasses and rum gained popularity too; rum caused a significant drunkenness problem, especially among Native Americans.
 The serious tooth decay problems that were once limited to the wealthy had now spread to everyone else.
 
 In less than a century, sugar went from being a luxury spice to being an ordinary commodity that could be found in the most humble shops in the most remote towns.
@@ -80,6 +80,7 @@ The rise of sugar-rich processed foods and the increasingly sedentary lifestyle 
 In a reversal of historical norms, poor people were more likely to be fat than rich people.
 The growth rate of obesity is especially high in developing countries and especially high among children.
 
+Sugar's reputation worsened throughout the 20th Century.
 In the early 20th Century, the young field of nutrition science had investigated sugar and found it to contain absolutely no vitamins or minerals.
 By the middle of the 20th Century, sugar was widely blamed for dental problems, especially among children.
 By the end of the 20th Century, the consumption of sugar (especially soft drinks) was found to be the main driver of the global rise of obesity.

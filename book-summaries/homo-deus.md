@@ -47,5 +47,5 @@ Our 20th century institutions are still churning onwards but they are widely reg
 Technology is advancing faster than government regulations and market forces can adapt.
 Science and capitalism remain on an unstoppable and uncontrollable course, leading humanity to a destination it cannot predict or understand.
 
-Human society is currently more individualistic and human-centred than at any previous point in history.
+Human society is currently more individualistic and human-centered than at any previous point in history.
 However, with the rise of artificial intelligence and human enhancement technologies, it is possible that humanity may become an increasingly irrelevant character even within its own story.

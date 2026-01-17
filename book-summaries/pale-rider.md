@@ -71,7 +71,7 @@ A vaccine for the alleged influenza bacterium was developed and distributed at a
 **Legacy:**
 Compounding World War I, the pandemic left behind significant numbers of cripples, widows, and orphans; those who didn't have extended relatives to take care of them often ended up falling through society's cracks.
 The cohort of children born in 1919 suffered from poorer health and lower socioeconomic attainment than the cohorts before and after.
-With western medicine and germ theory having failed miserably at one of their first big tests, there was a surge of interest in alternative medicine, though western medicine would go on to make advancements and regain its stature.
+With Western medicine and germ theory having failed miserably at one of their first big tests, there was a surge of interest in alternative medicine, though Western medicine would go on to make advancements and regain its stature.
 Governments increased their role in healthcare by centralizing data collection, drafting standard policies, funding research, and improving sanitation infrastructure.
 The pandemic was overshadowed by World War I in much of the western world despite having a higher death toll.
 This historical amnesia can likely be explained by most local outbreaks being brief, disease outbreaks being a frequent occurrence, and the population's ignorance about the pandemic's global extent.

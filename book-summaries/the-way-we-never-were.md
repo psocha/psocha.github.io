@@ -106,7 +106,7 @@ In the long term, the strongest predictor of a child's economic prospects is the
 Family structures have always been a response to the practical realities of their era.
 For example, the male breadwinner ethic intensified during industrialization because good fathers wanted to keep their wives and children out of sweatshop jobs if they could afford to.
 Fertility rates fell once children lost all their old economic value as child laborers and became economic burdens instead.
-Black American families continue to have a distinct agrarian character (eg complicated blended families, strong matriarch figures, low gender segregation of household work) because economic industrialization largely bypassed them.
+Black American families continue to have a distinct agrarian character (eg complicated extended families, strong matriarch figures, low gender segregation of household work) because economic industrialization largely bypassed them.
 Household sizes were high during the early industrial era, then started falling in the mid-20th century once the housing supply increased.
 Women became more prevalent in workplaces starting in the 1880s because of economic reasons, not starting in the 1960s because of feminism.
 As women gained greater economic power, the dating scene became more egalitarian and many old sexual double standards favoring men started eroding.
@@ -117,7 +117,7 @@ Both in the past and in the present, most misery is ultimately caused by poverty
 
 **Trends become popular first and socially acceptable later.**
 Most family trends throughout history have occurred because of ordinary people living their lives and responding to their circumstances.
-There has always been a decades-long lag between what was considered normal in practice and what was considered normal in theory.
+There has always been a decades-long lag between what was normal in practice and what was considered normal in theory.
 For example, divorce rates started increasing in the mid 20th century, but divorce itself remained taboo until decades later.
 Homosexual couples started living more openly in the late 20th century, but public support for legally recognizing their relationships didn't rise much until decades later.
 Working mothers were viewed as a negative social phenomenon for decades before they started being viewed favorably.

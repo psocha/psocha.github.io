@@ -33,7 +33,7 @@ Earth stratified into more clearly-defined layers, with heavy compounds sinking 
 Volcanoes expelled lightweight volatiles above the crust, most notably water, carbon dioxide, and nitrogen.
 Water soon covered Earth's surface while nitrogen became the dominant gas of Earth's atmosphere.
 Earth became almost entirely covered in a global ocean, with black volcanic islands being the only dry land.
-The sun was less luminous than it is now but Earth compensated with a stronger greenhouse effect.
+The sun was less luminous than it is now, but Earth compensated with a stronger greenhouse effect.
 
 Earth's internal convection heated the mantle from below and began driving plate tectonics.
 In some places, basalt partially melted and then cooled as granite, which is lighter and therefore floats on top of basalt.
@@ -60,7 +60,7 @@ Around 2.5 billion years ago, some microbes evolved a new photosynthetic reactio
 Earth's atmosphere now contained oxygen for the first time, though initially it was only a fraction of a percent.
 Even at small concentrations, oxygen's extreme reactivity had profound effects on Earth.
 Oxygen-intolerant life could now only live in oxygen-free areas such as the deep oceans or underground.
-Surface-level rocks got oxidized and Earth's still-barren continents turned from a granite grey to a Mars-like red.
+Surface-level rocks got oxidized, turning Earth's still-barren continents from a granite grey to a Mars-like red.
 The diversity of Earth's rocks and minerals skyrocketed; Earth now has about 4500 known types of minerals, about two-thirds of which are not known to exist anywhere else.
 
 After the initial shock of the Great Oxidation Event, Earth entered a period of remarkable stability.
@@ -83,7 +83,7 @@ A significant rise in photosynthetic algae increased the atmosphere's oxygen con
 ### The Rise of Complex Life (0.6 billion years ago to present) ###
 
 600 million years ago is the first time a modern human would be able to stand on Earth's surface without suffocating from low oxygen or getting burned by UV light because of a lack of a substantial ozone layer.
-In the most recent 600 million years of Earth's history, Earth's climate has been more dynamic than in the boring billion but less so than in the snowball-hothouse periods.
+In the most recent 600 million years of Earth's history, Earth's climate has been more dynamic than during the boring billion but less so than in the snowball-hothouse periods.
 Sea levels have swung hundreds of meters both above and below current levels.
 The atmosphere's oxygen content varied between 15% and 33% (it is currently 21%).
 
@@ -106,8 +106,8 @@ There will inevitably be more mass extinctions, but biodiversity should recover 
 The biggest long-term threat to life on Earth is the sun's slowly-increasing luminosity.
 Between one and two billion years from now, the hot sun will have evaporated enough of Earth's oceans for the water vapor to cause a runaway greenhouse effect.
 UV light will dissociate atmospheric water and the hydrogen atoms will be lost to space in the solar wind.
-Two billion years from now, Earth will have lost its water and will become a desert planet, just as Mars did several billion years ago.
-Complex life will go extinct but microbes could still potentially survive for a long time in specific places.
+Two billion years from now, Earth will have lost its water and become a desert planet, just as Mars did several billion years ago.
+Complex life will go extinct, but microbes could still potentially survive for a long time in specific places.
 
 Five billion years from now, the sun will have exhausted its hydrogen fuel and will swell into a much larger and cooler red giant.
 Earth's fate in this scenario is unclear.

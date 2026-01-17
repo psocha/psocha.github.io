@@ -40,4 +40,4 @@ Young adults who receive too much aid become dysfunctional, develop unhealthy de
 Successful parents keep their wealth away from their kids and often keep the extent of their wealth a secret, even when it feels uncomfortable to do so.
 First-generation-wealthy parents try very hard to impart good values in their children, in particular frugality, grit, and the value of hard work.
 Such children often grow up to be self-sufficient in their own right, even without direct aid from their parents.
-When the giant family inheritance eventually comes to them, these adults will handle the windfall responsibly rather than squandering it.
+When the giant family inheritance eventually comes to them, these adults will handle the windfall responsibly rather than squander it.
