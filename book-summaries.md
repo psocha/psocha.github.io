@@ -21,6 +21,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_The Science of Revenge_**](/book-summaries/the-science-of-revenge) by James Kimmel, Jr.
+
+<small>Revenge is pleasurable and addictive, which causes it to be used excessively.</small>
+
+&nbsp;
+
 [**_Marriage, a History_**](/book-summaries/marriage-a-history) by Stephanie Coontz
 
 <small>The love marriage is a relatively recent cultural invention dating only to the Industrial Revolution.</small>
