@@ -22,7 +22,7 @@ A more common outcome is that the target develops a grievance over the revenge a
 Revenge is a form of self-administered justice.
 Revenge seekers put their target on trial inside their own minds, acting as the prosecutor, jury, judge, and warden.
 Since this process is so emotionally charged, the chosen punishment is often disproportionate relative to the harms committed.
-Since this process occurs silently inside one mind, a revenge seeker can easily make unvetted leaps of logic that make sense to nobody but themselves.
+Since this process occurs silently inside one mind, revenge seekers can easily make unvetted leaps of logic that make sense to nobody but themselves.
 When the ideal target isn't reachable, revenge seekers will often settle for a proxy of the ideal target instead.
 Mass shootings, hate crimes, terrorism, genocides, and other attacks directed against groups often target people who are obviously innocent, but in the attacker's mind, everyone from the group is guilty.
 

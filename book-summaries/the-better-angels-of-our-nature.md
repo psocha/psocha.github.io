@@ -422,7 +422,7 @@ Public opinion on many issues completely flipped in as little as fifty years, al
 Minority groups often suffered from severe disparities in policing, with governments prosecuting minority-on-majority crime relentlessly while turning a blind eye to majority-on-minority or minority-on-minority crime.
 The term "race riot" today conjures up images of violent protests by minorities, but historically it meant the opposite: frenzied mobs of people from the majority ethnic group going on rampages against minorities that featured beating, looting, property destruction, and rape.
 Rather than the small-scale acts they tend to be today, racial lynchings were once public and widely-attended events with a carnival-like atmosphere.
-Unpunished violence against minorities declined for several reasons: the majority group's empathy increased, the minority group got more involved in governance and policing, mob violence got increasingly scorned as a political tactic, and national governments got in the habit of calling in national militias during crises where the local police was known to be biased.
+Unpunished violence against minorities declined for several reasons: the majority group's empathy increased, minority groups got more involved in governance and policing, mob violence got increasingly scorned as a political tactic, and national governments got in the habit of calling in national militias during crises where the local police was known to be biased.
 
 **Women's rights:**
 Rape and intimate partner abuse started being taken seriously and actively prosecuted.
@@ -464,8 +464,8 @@ Though this was largely forgotten after 9/11, the late 20th century was a golden
 The new mass media made it possible for terrorists to achieve widespread notoriety on a small budget.
 Most terrorist groups were religious, secessionist, or Marxist in their ideology.
 Terrorism is good at attracting attention to itself, but overall it has never been more than a tiny fraction of overall violence.
+Terrorists were consistently a political liability for their movements, usually accomplishing nothing besides uniting both the government and the public against them.
 No terrorist group anywhere in the world achieved its stated political goals and very few groups survived longer than a decade.
-Terrorists were consistently a political liability for their movements and often accomplished nothing besides uniting both the government and the public against them.
 
 In contrast, many of the most successful activist movements of the 20th century were staunchly peaceful.
 A pre-commitment to peaceful protesting prevents a movement from being hijacked by hotheads, it allows the movement to claim the moral high ground, and it sows strategic divisions among the movement's opponents.
