@@ -65,7 +65,7 @@ In modern times, a lack of activity is associated with poor health, rapid aging,
 In contrast, hunter gatherers who avoid early death are able to live to an old age without ever experiencing the long-term illnesses typical of modern times.
 
 Why is physical activity so important for health maintenance?
-In the very short term, physical exertion is undenyingly negative: muscles and bones experience physical damage and the body gets flooded with harmful waste chemicals.
+In the very short term, physical exertion is undeniably negative: muscles and bones experience physical damage and the body gets flooded with harmful waste chemicals.
 However, this damage triggers a flurry of repair mechanisms to fix it; these processes often overcorrect and build the body back stronger than before.
 To help conserve energy, these expensive repair processes are triggered only in response to significant exertion and not in response to baseline metabolism.
 This particular quirk of the human body wasn't significant when all people had to be active by necessity, but it is very significant today.

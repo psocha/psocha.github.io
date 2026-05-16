@@ -12,7 +12,7 @@ author_profile: true
 Leonardo da Vinci was born out of wedlock in 1452 in the Republic of Florence to a notary father and a peasant mother.
 His illegitimate birth made him ineligible to join the local notary guild and become a notary like his father.
 At 14, after receiving an informal primary-grade education, he became an apprentice of Andrea del Verrocchio, a painter and sculptor in Florence.
-Leonardo became an independent master painter in his 20s, but his low output and excessive procrastination was detrimental to his career.
+Leonardo became an independent master painter in his 20s, but his low output and excessive procrastination were detrimental to his career.
 
 In 1482, Florence's de facto ruling family sent Leonardo as part of a delegation to Milan.
 Leonardo wrote Milan's ruler, Ludovico Sforza, a job letter in which be boasted of his skill as a military engineer (he had never done any work of the sort) and mentioned as an afterthought that he could also paint.

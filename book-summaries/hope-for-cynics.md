@@ -125,7 +125,7 @@ Economic inequality has again risen with the transition to a service-based econo
 The social safety net for the poor has become so bureaucratic and opaque that people have stopped trusting it to be there for them.
 A metric-obsessed and competition-obsessed culture has infected many workplaces, improving performance in the short term while creating culture rot in the long term.
 As the media landscape diversified and became more competitive, news media has increasingly turned to negativity and sensationalism as a way of attracting attention.
-Social media has inserted itself as a mediator of social relationships, turning a once-informal setting into a numbers-driven marketplace.
+Social media has inserted itself as a mediator of social relationships, turning a once-informal setting into a public marketplace.
 Schools have become increasingly smothering and surveillance-oriented, giving children a sour first taste of the world of adult institutions.
 Political polarization has intensified, with people increasingly self-sorting along ideological lines.
 

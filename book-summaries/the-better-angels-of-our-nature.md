@@ -294,7 +294,7 @@ People's social identities and social standing were no longer entirely defined b
 Since people now belonged to many dominance hierarchies rather than a single all-encompassing one, most interpersonal conflicts carried low stakes.
 
 The centuries-old practice of people settling personal disputes by dueling died out during the 19th century.
-Dueling didn't die because it was banned, as bans were widely disregarded.
+Dueling didn't die because it was banned, as bans were widely disregarded at first.
 Dueling finally died when duelists found themselves mocked and laughed at by the younger generations.
 The idea of risking one's life to defend one's reputation was now disproportionate and absurd.
 
