@@ -21,6 +21,12 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Natural_**](/book-summaries/natural) by Alan Levinovitz
+
+<small>Blind faith in nature's goodness leads to harmful fads, unjust laws, and flawed science.</small>
+
+&nbsp;
+
 [**_Hope for Cynics_**](/book-summaries/hope-for-cynics) by Jamil Zaki
 
 <small>Cynicism is not an accurate or useful worldview, but it is popular because it is self-perpetuating and unfalsifiable.</small>
