@@ -103,7 +103,7 @@ Industrial people have long lived with the sense that they were breaking the law
 Even in post-industrial cities that are much cleaner now than in the past, people continue to feel anxiety about contamination.
 Rich people have long used their wealth to distance themselves from sources of pollution, effectively seeking out a more natural environment.
 Modern societies have entire industries catering to the rich that promise them cleaner, more natural, and more healthy variants of everyday products at higher prices; virtually none of it has any scientific backing.
-The natural product industry’s marketing is counterproductive to public discourse.
+The natural product industry's marketing is counterproductive to public discourse.
 It distracts from the real reasons the rich are healthier than the poor (it's not because of organic makeup or natural spring water), creates unwarranted mistrust of public infrastructure and government regulators, and implies that healthy living is solely an individual responsibility.
 
 **Hierarchy.**

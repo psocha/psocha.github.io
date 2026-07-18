@@ -21,6 +21,18 @@ Brief summaries of non-fiction books I've read recently, mostly not tech-related
 
 &nbsp;
 
+[**_Generations_**](/book-summaries/generations) by Jean Twenge
+
+<small>Technology has made each new generation more individualistic and slower to grow up.</small>
+
+&nbsp;
+
+[**_Villains of All Nations_**](/book-summaries/villains-of-all-nations) by Marcus Rediker
+
+<small>More than just petty crooks, 18th Century Atlantic pirates were remarkably sophisticated and idealistic.</small>
+
+&nbsp;
+
 [**_Natural_**](/book-summaries/natural) by Alan Levinovitz
 
 <small>Blind faith in nature's goodness leads to harmful fads, unjust laws, and flawed science.</small>
